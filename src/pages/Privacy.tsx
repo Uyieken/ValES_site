@@ -20,7 +20,7 @@ const Privacy: React.FC = () => {
               1. Introduction
             </h2>
             <p>
-              Vales respects your privacy and is committed to protecting your
+              ValES respects your privacy and is committed to protecting your
               personal data in accordance with the Nigeria Data Protection
               Regulation (NDPR) and other applicable laws.
             </p>
@@ -110,7 +110,7 @@ const Privacy: React.FC = () => {
               <li>Regulatory authorities</li>
             </ul>
 
-            <p className="mt-6">Vales does not sell personal data.</p>
+            <p className="mt-6">ValES does not sell personal data.</p>
           </section>
 
           {/* 6 */}
@@ -200,7 +200,7 @@ const Privacy: React.FC = () => {
             </h2>
 
             <p>
-              Vales uses cookies and analytics tools to improve user experience
+              ValES uses cookies and analytics tools to improve user experience
               and platform performance. You may disable cookies through your
               browser settings, although some features may not function
               properly.

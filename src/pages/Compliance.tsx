@@ -20,7 +20,7 @@ const Compliance: React.FC = () => {
               1. Corporate Information
             </h2>
             <p>
-              Vales is operated by <strong>Vales Concepts LTD.</strong>, a
+              ValES is operated by <strong>Vales Concepts LTD.</strong>, a
               company duly registered under the laws of the Federal Republic of
               Nigeria.
             </p>
@@ -37,10 +37,10 @@ const Compliance: React.FC = () => {
               2. Nature of Operations
             </h2>
             <p>
-              Vales operates as a technology platform that facilitates
+              ValES operates as a technology platform that facilitates
               structured transaction workflows between buyers and sellers.
             </p>
-            <p className="mt-4">Vales:</p>
+            <p className="mt-4">ValES:</p>
             <ul className="list-disc pl-6 space-y-2 mt-2">
               <li>Is not a bank</li>
               <li>Is not a licensed deposit-taking institution</li>
@@ -55,7 +55,7 @@ const Compliance: React.FC = () => {
               3. Payment Processing
             </h2>
             <p>
-              All payments conducted through the Vales platform are processed by
+              All payments conducted through the ValES platform are processed by
               licensed third-party payment service providers, including but not
               limited to Paystack.
             </p>
@@ -72,7 +72,7 @@ const Compliance: React.FC = () => {
               4. Anti-Fraud & Risk Controls
             </h2>
             <p>
-              Vales implements structured controls to reduce fraud and misuse of
+              ValES implements structured controls to reduce fraud and misuse of
               the platform, including:
             </p>
             <ul className="list-disc pl-6 space-y-2 mt-2">
@@ -89,12 +89,12 @@ const Compliance: React.FC = () => {
               5. Anti-Money Laundering (AML)
             </h2>
             <p>
-              Vales does not directly hold or custody funds. However, we
+              ValES does not directly hold or custody funds. However, we
               cooperate with licensed payment providers that are subject to
               Nigerian AML and Know Your Customer (KYC) regulations.
             </p>
             <p className="mt-4">
-              Vales reserves the right to request identity verification, suspend
+              ValES reserves the right to request identity verification, suspend
               suspicious accounts, and report unlawful activity to relevant
               authorities.
             </p>
@@ -106,7 +106,7 @@ const Compliance: React.FC = () => {
               6. Data Protection & NDPR
             </h2>
             <p>
-              Vales processes personal data in accordance with the Nigeria Data
+              ValES processes personal data in accordance with the Nigeria Data
               Protection Regulation (NDPR) and applicable data protection laws.
             </p>
             <p className="mt-4">
@@ -120,7 +120,7 @@ const Compliance: React.FC = () => {
               7. Regulatory Cooperation
             </h2>
             <p>
-              Vales cooperates with Nigerian regulatory and law enforcement
+              ValES cooperates with Nigerian regulatory and law enforcement
               authorities where legally required.
             </p>
             <p className="mt-4">

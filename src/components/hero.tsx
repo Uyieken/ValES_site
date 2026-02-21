@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
           </h1>
 
           <p className="mt-8 text-lg md:text-xl text-gray-300 max-w-2xl leading-relaxed">
-            Vales is the specialized bridge that protects funds and builds trust
+            ValES is the specialized bridge that protects funds and builds trust
             between buyers and sellers in the digital marketplace.
           </p>
 
@@ -153,7 +153,7 @@ const Hero: React.FC = () => {
                 </h3>
                 <p className="text-slate-500">
                   We've reserved your spot. Watch your inbox for a verification
-                  email from Vales.
+                  email from ValES.
                 </p>
                 <button
                   onClick={() => setIsModalOpen(false)}

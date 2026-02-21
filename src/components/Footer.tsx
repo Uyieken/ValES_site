@@ -143,8 +143,8 @@ const Footer: React.FC = () => {
               </p>
 
               <p className="text-xs text-gray-400 leading-relaxed italic">
-                Vales is a digital marketplace technology platform provided by
-                Vales Concepts LTD. Vales is not a bank, financial institution,
+                ValES is a digital marketplace technology platform provided by
+                Vales Concepts LTD. ValES is not a bank, financial institution,
                 or licensed deposit-taker. All payment facilitation is handled
                 by licensed payment service providers.
               </p>

@@ -41,12 +41,12 @@ const WhatValesDoes: React.FC = () => {
               </h2>
 
               <p className="mt-8 text-lg md:text-xl text-slate-500 leading-relaxed max-w-xl mx-auto lg:mx-0">
-                Vales is a structured transaction layer that ensures money moves
+                ValES is a structured transaction layer that ensures money moves
                 only when agreed conditions are met. No ghosting. No ambiguity.
               </p>
 
               <p className="mt-6 text-sm md:text-base text-slate-400 leading-relaxed max-w-xl mx-auto lg:mx-0">
-                Transactions are created within Vales, payments are securely
+                Transactions are created within ValES, payments are securely
                 processed via licensed payment partners, and funds are released
                 only after confirmation requirements are satisfied.
               </p>
@@ -108,7 +108,7 @@ const WhatValesDoes: React.FC = () => {
                 <span className="mx-1 font-semibold text-blue-400">
                   Paystack
                 </span>
-                . Vales operates strictly as a technology platform and does not
+                . ValES operates strictly as a technology platform and does not
                 hold customer deposits.
               </p>
 

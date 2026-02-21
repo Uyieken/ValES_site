@@ -19,9 +19,9 @@ const Terms: React.FC = () => {
             <h2 className="text-lg font-semibold text-[#0B1F3B] mb-4">
               1. Introduction
             </h2>
-            <p>Welcome to Vales (“Vales”, “we”, “our”, or “us”).</p>
+            <p>Welcome to ValES (“ValES”, “we”, “our”, or “us”).</p>
             <p className="mt-4">
-              Vales is a technology platform that facilitates structured
+              ValES is a technology platform that facilitates structured
               transaction workflows between buyers, vendors, and freelancers. By
               accessing or using our website, mobile application, or related
               services (collectively, the “Platform”), you agree to be bound by
@@ -39,7 +39,7 @@ const Terms: React.FC = () => {
             </h2>
 
             <p className="mb-4">
-              Vales provides a structured transaction workflow system that
+              ValES provides a structured transaction workflow system that
               enables parties to:
             </p>
 
@@ -54,7 +54,7 @@ const Terms: React.FC = () => {
 
             <div className="mt-6 space-y-3">
               <p>
-                <strong>Vales:</strong>
+                <strong>ValES:</strong>
               </p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Is not a bank</li>
@@ -76,7 +76,7 @@ const Terms: React.FC = () => {
               3. Eligibility
             </h2>
 
-            <p className="mb-4">To use Vales, you must:</p>
+            <p className="mb-4">To use ValES, you must:</p>
 
             <ul className="list-disc pl-6 space-y-2">
               <li>Be at least 18 years old</li>
@@ -106,7 +106,7 @@ const Terms: React.FC = () => {
             </ul>
 
             <p className="mt-6">
-              Vales reserves the right to suspend accounts suspected of fraud,
+              ValES reserves the right to suspend accounts suspected of fraud,
               abuse, or illegal activity.
             </p>
           </section>
@@ -130,7 +130,7 @@ const Terms: React.FC = () => {
             </ol>
 
             <p className="mt-6">
-              Vales does not independently hold customer funds.
+              ValES does not independently hold customer funds.
             </p>
           </section>
 
@@ -161,14 +161,14 @@ const Terms: React.FC = () => {
                 Either party may initiate a dispute within the defined period.
               </li>
               <li>Parties may be required to submit supporting evidence.</li>
-              <li>Vales will review submissions objectively.</li>
+              <li>ValES will review submissions objectively.</li>
               <li>
                 Decisions are made based on predefined eligibility criteria.
               </li>
             </ul>
 
             <p className="mt-6">
-              Vales’ dispute determination is final within the Platform, but
+              ValES’ dispute determination is final within the Platform, but
               does not prevent parties from pursuing legal remedies under
               Nigerian law.
             </p>
@@ -201,7 +201,7 @@ const Terms: React.FC = () => {
             </h2>
 
             <p>
-              To the maximum extent permitted under Nigerian law, Vales shall
+              To the maximum extent permitted under Nigerian law, ValES shall
               not be liable for indirect or consequential damages, loss of
               profits, loss resulting from user misconduct, or delays caused by
               third-party payment processors.
@@ -209,7 +209,7 @@ const Terms: React.FC = () => {
 
             <p className="mt-4">
               Our total liability shall not exceed the total fees paid by you to
-              Vales within the last three (3) months.
+              ValES within the last three (3) months.
             </p>
           </section>
 
@@ -248,7 +248,7 @@ const Terms: React.FC = () => {
             </h2>
 
             <p>
-              Vales may update these Terms from time to time. Continued use of
+              ValES may update these Terms from time to time. Continued use of
               the Platform constitutes acceptance of revised Terms.
             </p>
           </section>
